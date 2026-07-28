@@ -1,6 +1,0 @@
-python-telegram-bot
-httpx
-chompjs
-selectolax
-m3u8
-curl_cffi
